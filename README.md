@@ -15,12 +15,12 @@ There will be more of this, and these are very useful tools from the depths of t
 - [Hashatit](https://www.hashatit.com/)
 
 <strong>Conversations Generators</strong>
-- [Tinder Chat](http://tindermaker.com/)
-- [Chat Screens](https://pranx.com/chat-screenshot/)
+- [Tinder Chat](http://tindermaker.com/) - fake tinder chat
+- [Chat Screens](https://pranx.com/chat-screenshot/) - fake chat screens
 - [Facebook Chat](https://fakedetail.com/fake-facebook-chat-generator) - fake fb conversation
 
 <strong>TikTok Comment Generator</strong>
-- [tokcomment.com](https://tokcomment.com/)
+- [tokcomment.com](https://tokcomment.com/) - fake tik tok comments
 
 <strong>Fakin Tinder</strong>
 - [Fake Match & Profile](https://tinderkit.com/)
@@ -30,14 +30,11 @@ There will be more of this, and these are very useful tools from the depths of t
 - [fakedetail.com](https://fakedetail.com/) - Fake Iphone chats, tik tok profiles, twitters, youtube profiles and much more
 
 <strong>Youtube Video Downloader</strong>
-- [pl.loader.to](https://pl.loader.to/) - best, works in Poland always (1440p)
-- [cobalt.tools](https://cobalt.tools/) - new crazy tool
+- [pl.loader.to](https://pl.loader.to/) - best, works in Poland (almost) always (1440p)
+- [cobalt.tools](https://cobalt.tools/) - new crazy tool, insta downloading
 
 <strong>Audio to subtitles (srt)</strong>
 - [turboscribe.ai](https://turboscribe.ai/dashboard) - free
-
-<strong>Cheap flights</strong>
-- [secretflying.com/](https://www.secretflying.com/)
 
 
 <strong>To Webp Converter</strong>
