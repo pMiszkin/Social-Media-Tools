@@ -1,7 +1,7 @@
 ![Alt text](https://github.com/pMiszkin/Social-Media-Tools/blob/main/socialmedia-banner.png "social media banner")
 
-# Social Media, SEO and E-commerce
-I just need to save these links somewhere 
+# Social Media Tools
+There will be more of this, and these are very useful tools from the depths of the internet. Watch this 💪
 
 ## Social Media Tools
 
