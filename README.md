@@ -33,6 +33,9 @@ I just need to save these links somewhere
 - [pl.loader.to](https://pl.loader.to/) - best, works in Poland always (1440p)
 - [cobalt.tools](https://cobalt.tools/) - new crazy tool
 
+<strong>Audio to subtitles (srt)</strong>
+- [turboscribe.ai](https://turboscribe.ai/dashboard) - free
+
 <strong>Cheap flights</strong>
 - [secretflying.com/](https://www.secretflying.com/)
 
